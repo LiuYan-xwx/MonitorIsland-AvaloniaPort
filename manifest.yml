@@ -7,7 +7,7 @@ name: MonitorIsland-AvaloniaPort
 description: MonitorIsland的Avalonia兼容版，为Ci2.0打造。在主界面监控您的硬件资源使用状态（CPU，内存...）
 entranceAssembly: "MonitorIsland.dll"
 url: https://github.com/LiuYan-xwx/MonitorIsland-AvaloniaPort
-version: 1.6.0
+version: 1.7.0
 apiVersion: 2.0.0.0
 author: 流焰xwx
 repoOwner: LiuYan-xwx
